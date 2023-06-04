@@ -1,7 +1,7 @@
 {
-    "Now check your email!": "",
-    "Please enter a valid email address": "",
-    "Something went wrong, please try again.": "",
-    "Subscribe": "",
-    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": ""
+    "Now check your email!": "Vérifiez vos e-mails!",
+    "Please enter a valid email address": "Veuillez saisir une e-mail valide",
+    "Something went wrong, please try again.": "Un problème s'est produit, veuillez réessayer",
+    "Subscribe": "S'abonner",
+    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "Pour terminer l'inscription, cliquez sur le lien de confirmation dans votre boîte de réception. S'il n'arrive pas dans les 3 minutes, vérifiez votre dossier spam !"
 }
